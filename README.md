@@ -1,2 +1,2 @@
-# python-scrips
+# python-scripts
 Repository for useful python scripts
